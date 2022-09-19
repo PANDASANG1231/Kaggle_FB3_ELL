@@ -27,3 +27,4 @@ dependencies:
     - pandoc==2.0.1
     - opencv-python==4.3.0.38
     - ipykernel==6.15.0
+    - cookiecutter==2.1.1
