@@ -25,4 +25,4 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 `kaggle_fb3_ell` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
 
 
-https://docs.google.com/document/d/1-8vLf-3Jfc2C-xCLDvxwi3eJXxNfH9Cp/edit?usp=sharing&ouid=109895171971665649290&rtpof=true&sd=true
+https://pandasang.s3.us-east-2.amazonaws.com/Setup.log
